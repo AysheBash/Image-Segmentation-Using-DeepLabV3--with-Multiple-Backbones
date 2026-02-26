@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset & Outputs
+humanDataset/outputs/
+humanDataset/results/
+
+# Large files
+*.h5
+*.pth
+*.pt
