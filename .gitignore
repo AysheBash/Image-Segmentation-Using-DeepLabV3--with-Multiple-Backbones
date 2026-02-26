@@ -6,9 +6,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Dataset & Outputs
-humanDataset/outputs/
-humanDataset/results/
 
 # Large files
 *.h5
